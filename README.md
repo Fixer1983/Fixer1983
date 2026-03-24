@@ -6,18 +6,22 @@ I specialize in building and deploying scalable AI systems, with a deep focus on
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Python (Expert), C++, Rust, SQL
+- **Languages:** Python (Expert), C++, Rust, Go, TypeScript, SQL
 - **Frameworks:** PyTorch, TensorFlow, JAX, LangChain, LlamaIndex
 - **Infrastructure:** AWS, GCP, Docker, Kubernetes, Terraform
 - **MLOps:** MLflow, WandB, Kubeflow, BentoML
-- **Databases:** Pinecone, Milvus, PostgreSQL, MongoDB
+- **Databases:** Pinecone, Milvus, Neo4j, PostgreSQL, MongoDB
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Repositories
 - **[llm-ops-framework](https://github.com/Fixer1983/llm-ops-framework):** Production-ready framework for LLM deployment and monitoring.
 - **[neural-optimizer-pro](https://github.com/Fixer1983/neural-optimizer-pro):** High-performance PyTorch model optimization library.
 - **[rag-knowledge-graph](https://github.com/Fixer1983/rag-knowledge-graph):** Advanced RAG implementation using GraphDB for context-aware AI.
+- **[ai-edge-inference](https://github.com/Fixer1983/ai-edge-inference):** Ultra-fast AI inference engine for edge devices and IoT.
+- **[synthetic-data-gen](https://github.com/Fixer1983/synthetic-data-gen):** Scalable synthetic data generation for training robust ML models.
+- **[distributed-training-mesh](https://github.com/Fixer1983/distributed-training-mesh):** Lightweight mesh for distributing deep learning training.
+- **[ai-compliance-checker](https://github.com/Fixer1983/ai-compliance-checker):** Automated tool for auditing AI models for bias and fairness.
 
 ---
 
